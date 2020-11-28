@@ -1,0 +1,2 @@
+# novostnikkknews.github.io
+Mysite
